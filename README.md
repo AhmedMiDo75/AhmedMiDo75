@@ -11,7 +11,7 @@
 
 - 💬 Ask Me About Front End Fundamentals 
 
-- 📫 How To Reach Me **CodeTuneFX@Gmail.Com**
+- 📫 How To Reach Me **CodeTuneFX@Gmail.CoM**
 
 - ⚡ My Hobbies Are Learning, Gaming and Watching Football
 
