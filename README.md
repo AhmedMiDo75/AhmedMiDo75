@@ -7,7 +7,7 @@
   <img src="https://visitcount.itsvg.in/api?id=AhmedMiDo75&label=Profile%20Views&color=5&icon=0&pretty=false" />
 </a>
 
-- 🧠 I’m Currently Learning **Javascript And English**
+- 🧠 I’m Currently Learning **Front-End And English**
 
 - 💬 Ask Me About Front End Fundamentals 
 
